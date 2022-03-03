@@ -1,0 +1,22 @@
+body {
+  text-align: center;
+}
+
+.main {
+  height: 100vh;
+  width: 100vw;
+  display: grid;
+  place-items: center;
+}
+
+.reg-form {
+  width: 35%;
+  margin: auto;
+  padding: 3em;
+  border: 2px solid #e0e0e0;
+}
+
+.iti,
+#phone {
+  width: 100%;
+}
